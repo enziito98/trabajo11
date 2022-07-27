@@ -42,4 +42,4 @@ for(i = numero1; i <= numero2; i++){
 
 for(i=20;i<=70;i++){
     document.write("El número es: " + i + "<br>");
-    }
+}
